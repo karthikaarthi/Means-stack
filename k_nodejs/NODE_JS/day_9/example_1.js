@@ -1,0 +1,10 @@
+const math= require('./math')
+const circle = require('./circle')
+const calculate = require('./circle')
+
+console.log(math.add(20,3))
+console.log(math.sub(20,3))
+console.log(math.mul(20,3))
+console.log(math.div(20,3))
+console.log(circle.area(10))
+// console.log(calculate(10))

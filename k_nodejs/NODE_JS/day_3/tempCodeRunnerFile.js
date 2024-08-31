@@ -1,0 +1,1 @@
+ myevent.emit('hello')
